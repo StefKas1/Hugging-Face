@@ -3,6 +3,7 @@
 ## Links
 
 - Documentation: https://huggingface.co/docs
+- Data sets: https://huggingface.co/datasets
 
 ## Collection information
 
