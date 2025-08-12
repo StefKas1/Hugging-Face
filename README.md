@@ -4,6 +4,9 @@
 
 - Documentation: https://huggingface.co/docs
 - Data sets: https://huggingface.co/datasets
+- Data libraries: https://huggingface.co/docs/hub/datasets-libraries
+- Docker spaces: https://huggingface.co/docs/hub/spaces-sdks-docker
+- SSO: https://huggingface.co/docs/hub/enterprise-sso
 
 ## Collection information
 
