@@ -13,6 +13,7 @@ hf auth login # Get a read token from hf.co/settings/tokens
 
 - Documentation: https://huggingface.co/docs
 - Tasks with example models and code: https://huggingface.co/docs/inference-providers/tasks/index
+- Create Hugging Face inference endpoints (with TLS/SSL and authentication): https://huggingface.co/docs/inference-endpoints/quick_start
 - Data sets: https://huggingface.co/datasets
 - Data libraries: https://huggingface.co/docs/hub/datasets-libraries
 - Docker spaces: https://huggingface.co/docs/hub/spaces-sdks-docker
