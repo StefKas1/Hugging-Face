@@ -12,12 +12,14 @@ hf auth login # Get a read token from hf.co/settings/tokens
 ## Links
 
 - Documentation: https://huggingface.co/docs
+- Tasks with example models and code: https://huggingface.co/docs/inference-providers/tasks/index
 - Data sets: https://huggingface.co/datasets
 - Data libraries: https://huggingface.co/docs/hub/datasets-libraries
 - Docker spaces: https://huggingface.co/docs/hub/spaces-sdks-docker
 - SSO: https://huggingface.co/docs/hub/enterprise-sso
 - Hub API playground: https://huggingface.co/spaces/enzostvs/hub-api-playground
 - Inferene playground: https://huggingface.co/playground
+- List supported models per provider: https://huggingface.co/docs/inference-providers/hub-api
 
 ## Collection information
 
