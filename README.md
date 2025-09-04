@@ -21,6 +21,8 @@ hf auth login # Get a read token from hf.co/settings/tokens
 - Hub API playground: https://huggingface.co/spaces/enzostvs/hub-api-playground
 - Inferene playground: https://huggingface.co/playground
 - List supported models per provider: https://huggingface.co/docs/inference-providers/hub-api
+- Deploy models on Azure: https://huggingface.co/docs/microsoft-azure/guides/one-click-deployment-azure-ai
+- Setup Azure AI: https://huggingface.co/docs/microsoft-azure/azure-ai/set-up
 
 ## Collection information
 
