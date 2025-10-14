@@ -3,4 +3,5 @@
 .env
 
 *.safetensors
+*.ipynb_checkpoints
 src/llm_course/**/*.json
